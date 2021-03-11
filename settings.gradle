@@ -1,0 +1,3 @@
+include ':validatorfields'
+include ':app'
+rootProject.name = "AndroidLibraryDemo"
